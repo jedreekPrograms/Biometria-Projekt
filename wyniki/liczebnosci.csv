@@ -1,0 +1,15 @@
+split,label,status,n
+dev,0,ok,2421
+dev,0,too_short,127
+dev,1,ok,19022
+dev,1,too_short,3274
+eval,0,ok,7090
+eval,0,too_short,265
+eval,1,no_speech,5
+eval,1,ok,47511
+eval,1,too_short,16366
+train,0,no_speech,1
+train,0,ok,2470
+train,0,too_short,109
+train,1,ok,19593
+train,1,too_short,3207

@@ -1,0 +1,23 @@
+{
+  "eval_all": {
+    "balanced_accuracy_delta": 0.008279285275158199,
+    "ci_low": -0.003467388472872591,
+    "ci_high": 0.018195129942440526,
+    "speakers": 67,
+    "valid_draws": 2000
+  },
+  "eval_unseen": {
+    "balanced_accuracy_delta": 0.005882472847802411,
+    "ci_low": -0.006300360202492864,
+    "ci_high": 0.016327037981415046,
+    "speakers": 67,
+    "valid_draws": 2000
+  },
+  "eval_reference": {
+    "balanced_accuracy_delta": 0.0194116346912262,
+    "ci_low": 0.006130859371443279,
+    "ci_high": 0.03217856317570754,
+    "speakers": 67,
+    "valid_draws": 2000
+  }
+}
